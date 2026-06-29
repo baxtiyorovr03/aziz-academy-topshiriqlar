@@ -1,0 +1,5 @@
+print("Birinchi Python dasturim")
+
+
+
+
