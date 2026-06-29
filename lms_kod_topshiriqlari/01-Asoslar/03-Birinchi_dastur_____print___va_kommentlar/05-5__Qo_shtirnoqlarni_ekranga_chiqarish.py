@@ -1,0 +1,3 @@
+print('Bugun "Python" darsini boshlaymiz.')
+
+
